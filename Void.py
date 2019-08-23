@@ -58,4 +58,4 @@ async def on_message(message):
         else:
             await message.channel.send("```PERMISSION DENIED```")
 
-client.run("NjAxODUyMjEyMDQxMzUxMTY4.XTI8Nw.dl_rkVwDUNJq2CreuZ2NttdmWkI")
+client.run("Your Token Here")
