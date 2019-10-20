@@ -1,11 +1,11 @@
-void.greet() : GREETINGS
+!greet : GREETINGS
 
-void.quote() : INSPIRATIONAL QUOTE (USE FOR MOTIVATION)
+!quote : INSPIRATIONAL QUOTE (USE FOR MOTIVATION)
 
-void.member_count() : GIVES MEMBER COUNT
+!member_count : GIVES MEMBER COUNT
 
-void.server_report() : GIVES INFO ABOUT STATUS OF MEMBERS
+!server_report : GIVES INFO ABOUT STATUS OF MEMBERS
 
-void.shutdown() : SHUTDOWN VOID (Can be only used by @Predator#6682)
+!shutdown : SHUTDOWN VOID (Can be only used by @Predator#6682)
 
-void.help() : SERIOUSLY DUDE!?
+!help : SERIOUSLY DUDE!?
